@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dzikhrimuttaqin69.github.io/static/css/main.4c4d1061.css",
-    "main.js": "/dzikhrimuttaqin69.github.io/static/js/main.14c00894.js",
-    "static/js/787.058610be.chunk.js": "/dzikhrimuttaqin69.github.io/static/js/787.058610be.chunk.js",
-    "index.html": "/dzikhrimuttaqin69.github.io/index.html",
-    "main.4c4d1061.css.map": "/dzikhrimuttaqin69.github.io/static/css/main.4c4d1061.css.map",
-    "main.14c00894.js.map": "/dzikhrimuttaqin69.github.io/static/js/main.14c00894.js.map",
-    "787.058610be.chunk.js.map": "/dzikhrimuttaqin69.github.io/static/js/787.058610be.chunk.js.map"
+    "main.css": "/portofolio/static/css/main.4c4d1061.css",
+    "main.js": "/portofolio/static/js/main.69b7aa3b.js",
+    "static/js/787.058610be.chunk.js": "/portofolio/static/js/787.058610be.chunk.js",
+    "index.html": "/portofolio/index.html",
+    "main.4c4d1061.css.map": "/portofolio/static/css/main.4c4d1061.css.map",
+    "main.69b7aa3b.js.map": "/portofolio/static/js/main.69b7aa3b.js.map",
+    "787.058610be.chunk.js.map": "/portofolio/static/js/787.058610be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c4d1061.css",
-    "static/js/main.14c00894.js"
+    "static/js/main.69b7aa3b.js"
   ]
 }
